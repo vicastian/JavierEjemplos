@@ -15,3 +15,31 @@ buildNumber.properties
 .project
 # JDT-specific (Eclipse Java Development Tools)
 .classpath
+
+# IntelliJ IDEA files
+.idea/
+*.iml
+*.iws
+*.ipr
+*.iws
+.idea_modules/
+out/
+
+# Compiled bytecode
+*.class
+
+# Maven-specific
+target/
+
+# Gradle-specific
+build/
+
+# Eclipse-specific
+.classpath
+.project
+.settings/
+
+# Logs and databases
+*.log
+*.sqlite
+*.db
